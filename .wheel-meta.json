@@ -1,0 +1,22 @@
+{
+  "wheel_id": 856,
+  "structure": "umbrella",
+  "slug": "homeloanbrokergoldcoast-113",
+  "project": "mortgage-broker-gold-coast-refinancing-1541f461db74323ba4487c74",
+  "parent_t1_ref": "homeloanbrokergoldcoast-155",
+  "node_role": "feeder",
+  "money_target": "homeloanbrokergoldcoast.com.au",
+  "primary_kw": "mortgage broker gold coast refinancing",
+  "intended_url": "https://aumedia.neocities.org/mortgage-broker-gold-coast-refinancing-1541f461db74323ba4487c74/",
+  "tier": "T2",
+  "writeback_nonce": "aba16d216149f613",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/homeloanbrokergoldcoast-155/",
+      "anchor": "https://sitesau.github.io/homeloanbrokergoldcoast-155/",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "url"
+    }
+  ]
+}
